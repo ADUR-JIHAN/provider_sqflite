@@ -1,0 +1,4 @@
+#Mon Sep 05 18:15:27 BDT 2022
+base.0=C\:\\Users\\BS913\\Desktop\\flutter project bs23\\provider_shovon\\provider_demo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
